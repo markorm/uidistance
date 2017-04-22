@@ -5,6 +5,7 @@ jQuery plugin to get relative distances from elements to window and document bou
 Options
 
 Element top and bottom: window-top, window-bottom, document-top, document-bottom.
+
 Element left and right:	window-left, window-right, document-left, document-right.
 
 Implementation:
